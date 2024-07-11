@@ -1,0 +1,20 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:warped_fungus_on_a_stick"
+          }
+        ],
+        "functions": [
+          {
+            "function": "minecraft:set_nbt",
+            "tag": "{gen:{name:\"acolyte_blade\",type:\"Sword\",stat:{physical_power:85,attack_speed:80}},AttributeModifiers:[{AttributeName:\"minecraft:generic.luck\",Name:\"tungsten.mainhand\",Amount:-0.000000000001,Operation:0,UUID:[I;12,42069,-0,10],Slot:\"mainhand\"}],display:{Name:'{\"translate\":\"Acolyte Blade\",\"color\":\"dark_red\",\"italic\":false,\"bold\":false,\"underlined\":false}',Lore:['[{\"translate\":\"A\",\"font\":\"genesis:icon\",\"color\":\"white\",\"italic\":false},{\"translate\":\"Epic Sword\",\"font\":\"minecraft:default\",\"color\":\"light_purple\",\"italic\":false}]','{\"translate\":\"\",\"font\":\"genesis:stats\",\"color\":\"white\",\"italic\":false,\"extra\":[{\"translate\":\"genesis.stats.wrapper.physical_power.2\",\"with\":[85]},{\"translate\":\"genesis.stats.wrapper.attack_speed.2\",\"with\":[80]}]}','{\"translate\":\"\"}']},CustomModelData:982050,HideFlags:195}"
+          }
+        ]
+      }
+    ]
+  }
+  
