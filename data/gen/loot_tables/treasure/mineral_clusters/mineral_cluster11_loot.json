@@ -41,6 +41,11 @@
           {
             "type": "minecraft:loot_table",
             "weight": 1,
+            "name": "gen:ingredients/mana_prism"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "weight": 1,
             "name": "gen:professions/mineralogy/minerals/grape_agate"
           }
         ]

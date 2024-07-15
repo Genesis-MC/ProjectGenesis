@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:structure_block",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{gen:{name:\"mana_prism\"},display:{Name:'{\"translate\":\"Mana Prism\",\"color\":\"aqua\",\"italic\":false,\"bold\":false,\"underlined\":false}',Lore:['[{\"translate\":\"A\",\"font\":\"genesis:icon\",\"color\":\"white\",\"italic\":false},{\"translate\":\"Epic Mineral\",\"font\":\"minecraft:default\",\"color\":\"light_purple\",\"italic\":false}]','{\"translate\":\"\"}','{\"translate\":\"A perfectly formed crystal with\",\"color\":\"white\"}','{\"translate\":\"an unusual density of mana.\",\"color\":\"white\"}']},HideFlags:195,CustomModelData:982038}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
